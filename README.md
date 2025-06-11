@@ -1,4 +1,4 @@
-# 🌸 Pinky Galah Studios
+#  Pinky Galah Studios
 
 **Pinky Galah Studios** is an independent game development studio focused on crafting unique, stylized, and heartfelt gaming experiences.
 
@@ -6,13 +6,13 @@ We are currently in active development of our first title — a stylized 3D ship
 
 ---
 
-## 🎯 Our Mission
+##  Our Mission
 
 To create imaginative and engaging games that spark curiosity, challenge players, and bring joy to people of all ages. We believe in the power of small teams with big visions.
 
 ---
 
-## 🛠️ In Development
+##  In Development
 
 ### 🚢 Current Project
 > A 3D ship-based action game in Unity  
@@ -26,7 +26,7 @@ Stay tuned for Devlogs and playable builds!
 
 ---
 
-## 💡 Technologies
+##  Technologies
 
 - Unity Engine (URP)
 - C# Scripting
@@ -38,7 +38,7 @@ Stay tuned for Devlogs and playable builds!
 
 ---
 
-## 👨‍💻 Team
+##  Team
 
 | Name | Role |
 |------|------|
@@ -52,7 +52,7 @@ Stay tuned for Devlogs and playable builds!
 📧 mcbrei@proton.me 
 🐦 [Twitter](https://x.com/the_mcbrei)  
 🕹️ [Twitch](https://www.twitch.tv/mcbrei))  
-🌐 [Website](https://pinkygalah.github.io)
+🌐 [Website](https://pinkygalahstuido.github.io)
 
 ---
 
