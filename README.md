@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_pgs.png" alt="Pinky Galah Studios Logo" width="200"/>
+</p>
+
 #  Pinky Galah Studios
 
 **Pinky Galah Studios** is an independent game development studio focused on crafting unique, stylized, and heartfelt gaming experiences.
