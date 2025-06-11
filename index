@@ -1,0 +1,47 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pinky Galah Studios</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf0f5;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #e91e63;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      text-align: center;
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌸 Pinky Galah Studios</h1>
+  <p>We’re a small, passionate indie game studio focused on unique and fun gaming experiences.
+    Whether it’s building worlds, crafting mechanics, or telling stories, we create games with heart.</p>
+
+  <h2>🎮 Current Project</h2>
+  <p>We’re currently developing an exciting Unity game that blends charming visuals with clever gameplay. Stay tuned!</p>
+
+  <footer>
+    &copy; 2025 Pinky Galah Studios
+  </footer>
+</body>
+</html>
