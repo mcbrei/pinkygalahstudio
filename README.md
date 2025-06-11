@@ -50,8 +50,8 @@ Stay tuned for Devlogs and playable builds!
 ## 📬 Contact
 
 📧 mcbrei@proton.me 
-🐦 [Twitter (optional)]()  
-🕹️ [Twitch (optional)](https://www.twitch.tv/mcbrei))  
+🐦 [Twitter](https://x.com/the_mcbrei)  
+🕹️ [Twitch](https://www.twitch.tv/mcbrei))  
 🌐 [Website](https://pinkygalah.github.io)
 
 ---
