@@ -2,7 +2,7 @@
 
 **Pinky Galah Studios** is an independent game development studio focused on crafting unique, stylized, and heartfelt gaming experiences.
 
-We are currently in active development of our first title — a stylized 3D ship combat game made with Unity, combining strategic gameplay with artistic charm.
+We are currently in active development of our first title — a stylized 3D ship combat game made with Unity.
 
 ---
 
@@ -33,8 +33,8 @@ Stay tuned for Devlogs and playable builds!
 - Blender (3D modeling & animation)
 - Git & GitHub for version control
 - Visual Studio Code / Rider
-- Trello for task management
-- Affinity / Krita for design & concepts
+- Notion for task management
+- Affinity for design & concepts
 
 ---
 
@@ -43,15 +43,15 @@ Stay tuned for Devlogs and playable builds!
 | Name | Role |
 |------|------|
 | **Mcbrei** | Founder, Designer, Project Lead |
-| **[Name deines Devs]** | Programmer, Debugger, System Architect |
+
 
 ---
 
 ## 📬 Contact
 
-📧 pinkygalahstudios@yourdomain.com  
-🐦 [Twitter (optional)](https://twitter.com/...)  
-🕹️ [Twitch (optional)](https://twitch.tv/...)  
+📧 mcbrei@proton.me 
+🐦 [Twitter (optional)]()  
+🕹️ [Twitch (optional)](https://www.twitch.tv/mcbrei))  
 🌐 [Website](https://pinkygalah.github.io)
 
 ---
