@@ -71,7 +71,7 @@ Stay tuned for devlogs and playable builds!
 - 📧 Email: <mcbrei@proton.me>
 - 🐦 Twitter / X: [@the_mcbrei](https://x.com/the_mcbrei)
 - 🕹️ Twitch: [mcbrei](https://www.twitch.tv/mcbrei)
-- 🌐 Website: [mcbrei.github.io/pinkygalahstudio](https://mcbrei.github.io/pinkygalahstudio)
+- 🌐 Website: [mcbrei.github.io/pinkygalahstudio](](https://github.com/mcbrei/pinkygalahstudio))
 
 ---
 
