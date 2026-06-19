@@ -1,36 +1,52 @@
 <p align="center">
-  <img src="logo_pgs.png" alt="Pinky Galah Studios Logo" width="200"/>
+  <img src="logo_pgs.png" alt="Pinky Galah Studios Logo" width="160" />
 </p>
 
-#  Pinky Galah Studios
+<h1 align="center">Pinky Galah Studios</h1>
 
-**Pinky Galah Studios** is an independent game development studio focused on crafting unique, stylized, and heartfelt gaming experiences.
-
-We are currently in active development of our first title — a stylized 3D ship combat game made with Unity.
+<p align="center"><em>"We may be small, but we dream in galaxies."</em></p>
 
 ---
 
-##  Our Mission
+**Pinky Galah Studios** is an independent game development studio focused on crafting unique, stylized, and heartfelt gaming experiences.
+
+We are currently in active development of two titles, both made with Unity.
+
+---
+
+## Our Mission
 
 To create imaginative and engaging games that spark curiosity, challenge players, and bring joy to people of all ages. We believe in the power of small teams with big visions.
 
 ---
 
-##  In Development
+## In Development
 
-### 🚢 Current Project
-> A 3D ship-based action game in Unity  
-> - Custom ship physics  
-> - Modular turret and weapon systems  
-> - Strategic combat and navigation  
-> - Stylized visuals and handcrafted assets  
-> - Built with C# and Unity Engine
+### 🚢 Ship Combat Game
 
-Stay tuned for Devlogs and playable builds!
+> A stylized 3D ship combat game made with Unity.
+>
+> - Custom ship physics
+> - Modular turret and weapon systems
+> - Strategic combat and navigation
+> - Stylized visuals and handcrafted assets
+> - Built with C# and the Unity Engine
+
+### ⚓ Werft-Simulator (Shipyard Simulator)
+
+> A shipyard management & simulation game set in the early 20th century.
+>
+> - Economic shipyard simulation in the early 1900s
+> - Research into hulls, engines, and propulsion
+> - Design your own ships and take on construction contracts
+> - Workshop atmosphere with freely movable control panels
+> - Built with C# and the Unity Engine
+
+Stay tuned for devlogs and playable builds!
 
 ---
 
-##  Technologies
+## Technologies
 
 - Unity Engine (URP)
 - C# Scripting
@@ -42,23 +58,21 @@ Stay tuned for Devlogs and playable builds!
 
 ---
 
-##  Team
+## Team
 
-| Name | Role |
-|------|------|
+| Name       | Role                            |
+| ---------- | ------------------------------- |
 | **Mcbrei** | Founder, Designer, Project Lead |
-
 
 ---
 
 ## 📬 Contact
 
-📧 mcbrei@proton.me 
-🐦 [Twitter](https://x.com/the_mcbrei)  
-🕹️ [Twitch](https://www.twitch.tv/mcbrei)
-🌐 [Website](https://pinkygalahstuido.github.io)
+- 📧 Email: <mcbrei@proton.me>
+- 🐦 Twitter / X: [@the_mcbrei](https://x.com/the_mcbrei)
+- 🕹️ Twitch: [mcbrei](https://www.twitch.tv/mcbrei)
+- 🌐 Website: [mcbrei.github.io/pinkygalahstudio](https://mcbrei.github.io/pinkygalahstudio)
 
 ---
 
-> _"We may be small, but we dream in galaxies."_  
-> — Pinky Galah Studios
+<p align="center"><em>"We may be small, but we dream in galaxies."</em><br>— Pinky Galah Studios</p>
